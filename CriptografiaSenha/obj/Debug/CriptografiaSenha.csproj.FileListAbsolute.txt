@@ -1,0 +1,10 @@
+C:\Users\paulo.rlopes2\source\repos\CriptografiaSenha\CriptografiaSenha\bin\Debug\CriptografiaSenha.exe.config
+C:\Users\paulo.rlopes2\source\repos\CriptografiaSenha\CriptografiaSenha\bin\Debug\CriptografiaSenha.exe
+C:\Users\paulo.rlopes2\source\repos\CriptografiaSenha\CriptografiaSenha\bin\Debug\CriptografiaSenha.pdb
+C:\Users\paulo.rlopes2\source\repos\CriptografiaSenha\CriptografiaSenha\obj\Debug\CriptografiaSenha.csprojAssemblyReference.cache
+C:\Users\paulo.rlopes2\source\repos\CriptografiaSenha\CriptografiaSenha\obj\Debug\CriptografiaSenha.frmCriptografandoSenhas.resources
+C:\Users\paulo.rlopes2\source\repos\CriptografiaSenha\CriptografiaSenha\obj\Debug\CriptografiaSenha.Properties.Resources.resources
+C:\Users\paulo.rlopes2\source\repos\CriptografiaSenha\CriptografiaSenha\obj\Debug\CriptografiaSenha.csproj.GenerateResource.cache
+C:\Users\paulo.rlopes2\source\repos\CriptografiaSenha\CriptografiaSenha\obj\Debug\CriptografiaSenha.csproj.CoreCompileInputs.cache
+C:\Users\paulo.rlopes2\source\repos\CriptografiaSenha\CriptografiaSenha\obj\Debug\CriptografiaSenha.exe
+C:\Users\paulo.rlopes2\source\repos\CriptografiaSenha\CriptografiaSenha\obj\Debug\CriptografiaSenha.pdb
